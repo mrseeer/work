@@ -20,11 +20,11 @@ Task: as a test task, we provide you with the online_shoppers_intention.csv data
 
 Executive summary:
 
-Used Python 3, numpy, pandas, matplotlib, sklearn libraries.
-The analysis was carried out and a reference model was built.
-The main user action affecting the conversion is visiting the site.
-What was done during the project:
+1. Used Python 3, numpy, pandas, matplotlib, sklearn libraries.
+2. The analysis was carried out and a reference model was built.
+3. The main user action affecting the conversion is visiting the site.
 
-Data preprocessing was carried out - checking for missing values in the data, column names are given in lower case (for better readability), data types of Revenue and Weekend columns were changed, checking for duplicates (duplicates were detected, but they cannot be deleted, because their deletion may affect the final result of the study);
-Data analysis - diagrams of profit dependence on visitor actions are constructed, linear correlation is calculated (there is no need to use nonlinear correlation);
-Model training - the values in the Month and Visitor_type columns were transferred from categorical to quantitative for future use in models, the target attribute (Revenue) was allocated, the dataset was divided into training and test sets, data was scaled. Next, LinearRegression and RandomForestClassifier models were trained, hyperparameters were selected and prediction accuracy was evaluated. The RandomForestClassifier model has the highest accuracy.
+What was done during the project:
+1. Data preprocessing was carried out - checking for missing values in the data, column names are given in lower case (for better readability), data types of Revenue and Weekend columns were changed, checking for duplicates (duplicates were detected, but they cannot be deleted, because their deletion may affect the final result of the study);
+2. Data analysis - diagrams of profit dependence on visitor actions are constructed, linear correlation is calculated (there is no need to use nonlinear correlation);
+3. Model training - the values in the Month and Visitor_type columns were transferred from categorical to quantitative for future use in models, the target attribute (Revenue) was allocated, the dataset was divided into training and test sets, data was scaled. Next, LinearRegression and RandomForestClassifier models were trained, hyperparameters were selected and prediction accuracy was evaluated. The RandomForestClassifier model has the highest accuracy.
