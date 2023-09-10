@@ -1,4 +1,4 @@
-Задание: В качестве тестового задания мы предоставляем вам датасет online_shoppers_intention.csv, который содержит информацию о посетителях интернет-магазина и их поведении на сайте. Необходимо проанализировать данный датасет, определив какие действия могут привести к конверсии и создать классификатор на основе ваших гипотез.
+Задание: в качестве тестового задания мы предоставляем вам датасет online_shoppers_intention.csv, который содержит информацию о посетителях интернет-магазина и их поведении на сайте. Необходимо проанализировать данный датасет, определив какие действия могут привести к конверсии и создать классификатор на основе ваших гипотез.
 В качестве ответа необходимо предоставить Jupyter Notebook с вашим анализом и модель машинного обучения, которая сможет предсказывать, приносят ли действия пользователя Revenue или нет.
 Для выполнения задания необходимо использовать Python и библиотеки на ваш выбор.
 
@@ -16,7 +16,7 @@ Executive summary:
 ****************************************************************************
 
 
-Task: As a test task, we provide you with the online_shoppers_intention.csv dataset, which contains information about online store visitors and their behavior on the site. It is necessary to analyze this dataset, determining which actions can lead to conversion and create a classifier based on your hypotheses. As an answer, you need to provide Jupyter Notebook with your analysis and a machine learning model that can predict whether the user's actions bring Revenue or not. To complete the task, you need to use Python and the libraries of your choice.
+Task: as a test task, we provide you with the online_shoppers_intention.csv dataset, which contains information about online store visitors and their behavior on the site. It is necessary to analyze this dataset, determining which actions can lead to conversion and create a classifier based on your hypotheses. As an answer, you need to provide Jupyter Notebook with your analysis and a machine learning model that can predict whether the user's actions bring Revenue or not. To complete the task, you need to use Python and the libraries of your choice.
 
 Executive summary:
 
