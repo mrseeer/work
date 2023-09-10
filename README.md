@@ -21,7 +21,7 @@ Task: as a test task, we provide you with the online_shoppers_intention.csv data
 Executive summary:
 
 1. Used Python 3, numpy, pandas, matplotlib, sklearn libraries.
-2. The analysis was carried out and a reference model was built.
+2. The analysis was carried out and model was built.
 3. The main user action affecting the conversion is visiting the site by users.
 
 What was done during the project:
